@@ -15,8 +15,6 @@ I’m a **Computer Science student at UC San Diego (Dean's Honor List)** interes
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 ### 🗼 [WatchTower](https://github.com/cse110-sp26-group09/Watchtower-Course-Project)
 *JavaScript, Node.js, HTML, CSS, Supabase, Clerk | CSE 110 Team Project*
 
