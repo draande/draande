@@ -24,15 +24,6 @@ A web application monitoring platform that helps developers track errors, user a
 - Live dashboard displays error feeds, latency charts, and session activity
 - Node.js backend stores telemetry in Supabase, with Clerk-authenticated dashboard access
 - Contributed **frontend components and styling** as part of UCSD’s CSE 110 Team 09
-
-### 🌐 [CSE 110 Meeting Minutes](https://draande.github.io/CSE110-Lab2-Starter-HemendraAnde/)
-*HTML | Git | GitHub Pages*
-
-A meeting-minutes website created for CSE 110.
-
-- Organized attendance, discussion topics, and meeting notes
-- Included audio, video, and diagrams
-- Published through GitHub Pages and checked HTML validity
   
 ### 🌍 [Rock Paper Scissors: Around the World](https://github.com/draande/rock-paper-scissors-world)
 *Python, CustomTkinter, Pygame*
