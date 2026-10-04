@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemendra Ande!
 
-I'm a **Computer Science student at UC San Diego (Dean's Honor List)** interested in **software engineering, full-stack development, cybersecurity, and cloud computing**.
+I'm a **Computer Science student at UC San Diego (Provost's Honors)** interested in **software engineering, full-stack development, cybersecurity, and cloud computing**.
 
 ---
 
