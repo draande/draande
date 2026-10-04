@@ -1,60 +1,88 @@
-# 👋 Hi there, I'm Hemendra Ande!
+# 👋 Hi, I'm Hemendra Ande!
 
-I’m a **Computer Science student at UC San Diego (Dean's Honor List)** interested in **software engineering, AI, and full-stack development**. I love building projects, figuring out why something breaks, and improving it until it works the way I intended.
+I'm a **Computer Science student at UC San Diego (Dean's Honor List)** interested in **software engineering, full-stack development, and cloud computing**.
 
----
-
-## 🧠 What I Work On
-
-- 💻 **Software Development**: Building projects with Python, Java, and C++
-- 🧩 **Data Structures and Algorithms**: Practicing LeetCode and explaining solutions to friends
-- ⚙️ **Operating Systems**: Working with threads, synchronization, and timer interrupts in Nachos
-- 🌐 **Web Development**: Building interfaces and collaborating through GitHub
-  
 ---
 
 ## 🚀 Featured Projects
 
+### 🦇 [Broke Batman](https://github.com/draande/Broke-Batman)
+*Next.js, React, TypeScript, PostgreSQL, Prisma, Gmail API, Playwright*
+
+A full-stack job application tracker built around one simple problem: **I'm Batman, but I'm broke, so I need a job.**
+
+- Track applications through searchable tables and Kanban workflows
+- Extract salary, skills, requirements, and position details from job postings
+- Connect Gmail to identify recruiter emails and suggest application status updates
+- Manage contacts, notes, follow-ups, status history, and duplicate applications
+- Analyze application funnels, response times, source conversion, and weekly job-search activity
+- Automated end-to-end testing with Playwright
+
+---
+
 ### 🗼 [WatchTower](https://github.com/cse110-sp26-group09/Watchtower-Course-Project)
-*JavaScript, Node.js, HTML, CSS, Supabase, Clerk | CSE 110 Team Project*
+*JavaScript, Node.js, PostgreSQL, Supabase, Clerk, Playwright, GitHub Actions*
 
-A web application monitoring platform that helps developers track errors, user activity, and performance.
+A full-stack observability platform for monitoring application errors, performance, and user activity.
 
-- Browser SDK captures JavaScript errors, user interactions, and page-load metrics
-- Live dashboard displays error feeds, latency charts, and session activity
-- Node.js backend stores telemetry in Supabase, with Clerk-authenticated dashboard access
-- Contributed **frontend components and styling** as part of UCSD’s CSE 110 Team 09
-  
-### 🌍 [Rock Paper Scissors: Around the World](https://github.com/draande/rock-paper-scissors-world)
-*Python, CustomTkinter, Pygame*
+- 🏆 **Won 1st place among 30 teams**
+- Capture JavaScript runtime errors, stack traces, timestamps, and debugging context
+- Track user sessions and interactions through event timelines and session replay
+- Monitor active users, page performance, latency, errors, and historical telemetry
+- Collect application telemetry through a browser-based JavaScript SDK
+- Built collaboratively as part of an **11-person Agile development team**
 
-A desktop game that brings together cultural variations of Rock Paper Scissors in an interactive GUI.
-
-- Includes classic rules and Hawaiian, Japanese, Chinese, Korean, and other variations
-- Features sound effects and animated particles for game outcomes
-- Supports customizable colors, button positions, and assets through JSON configuration
-- Includes variation-specific rules and quick rematches
 ---
 
 ## 🛠️ Technical Stack
 
-**Languages:** Python, Java, C++, HTML, CSS  
-**Tools:** Git, GitHub, GitHub Pages  
-**Interests:** Data Structures, Algorithms, Operating Systems, Software Engineering
+**Languages:** Java, Python, C/C++, SQL, JavaScript, TypeScript, HTML/CSS  
+**Frontend:** React, Next.js, Material UI  
+**Backend & Data:** Node.js, PostgreSQL, Supabase, Prisma, REST APIs  
+**Tools:** Git, GitHub, Docker, GitHub Actions, Playwright, Clerk, VS Code  
+**Cloud:** IaaS, PaaS, SaaS, Containers, Virtualization, Cloud Security
 
 ---
 
-## 🎯 Goals
+## 📜 Certifications
 
-- Build useful software and strengthen my system design skills
-- Gain hands-on experience through internships and team projects
-- Keep exploring how software interacts with hardware
-- Help others get more comfortable with programming
+### ☁️ [IBM Cloud Computing Fundamentals](https://www.credly.com/badges/f1dec88f-6093-4ef3-a4cc-82f64aad7812/public_url)
+
+- Cloud services and deployment models
+- Containers, Docker, and virtualization
+- IaaS, PaaS, and SaaS
+- Public, private, and hybrid cloud environments
+- Cloud infrastructure, migration, and security
+
+### 🔐 [IBM Cybersecurity Fundamentals](https://www.credly.com/badges/180b74d8-b4e8-4ecc-be40-197a0638670e/public_url)
+
+- Cyber attacks and threat analysis
+- Vulnerability management and threat detection
+- Cryptography and social engineering
+- Incident response and risk management
+- Defensive security strategies
 
 ---
 
-## 📬 Let’s Connect
+## 🧠 What I'm Working On
+
+- 💻 **Full-Stack Development:** Building applications from frontend interfaces to databases and APIs
+- 🧩 **Data Structures & Algorithms:** Solving problems and breaking down solutions for other students
+- ⚙️ **Systems:** Working with threads, synchronization, scheduling, and operating-system concepts
+- ☁️ **Cloud & Security:** Expanding my understanding of cloud infrastructure and application security
+
+---
+
+## 🎯 Currently
+
+I'm focused on building projects that go beyond coursework and demonstrate **real software engineering**: useful features, clean architecture, testing, CI/CD, documentation, and collaboration.
+
+I'm also looking for opportunities to apply those skills through **software engineering internships and entry-level roles**.
+
+---
+
+## 📬 Let's Connect
 
 - **GitHub:** [github.com/draande](https://github.com/draande)
-- **LinkedIn:** [linkedin.com/draande](https://www.linkedin.com/in/hemendra-ande-a27a9528a/)
+- **LinkedIn:** [linkedin.com/in/hemendra-ande-a27a9528a](https://www.linkedin.com/in/hemendra-ande-a27a9528a/)
 - **Email:** [hemendra.ande@gmail.com](mailto:hemendra.ande@gmail.com)
